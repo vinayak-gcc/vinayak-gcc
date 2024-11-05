@@ -5,11 +5,5 @@ I am a FullStack Web Developer from Vadodara, Gujarat, India .
 - 👯 I’m looking to collaborate on projects or get a good job.
 - 💬 Ask me about Front-End .
 - 📫 You can reach me on pathakvinayakk@gmail.com
-- 
-- Tech Stack : HTML ,CSS , JavaScript , React.js , Next.js , Typescript , MongoDB , Firebase , Tailwind CSS and continuously udating.
-- 
-- Socials:
-- Twitter or X : https://x.com/_Vinayak79
-- linkedin : https://www.linkedin.com/in/vinayak-pathak-b7aa7a205/
-- 
+-  
 -->
