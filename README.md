@@ -5,5 +5,8 @@ I am a Frontend Web Developer from Vadodara, Gujarat, India .
 - 👯 I’m looking to collaborate on projects and learn backend.
 - 💬 Ask me about Front-End .
 - 📫 You can reach me on pathakvinayakk@gmail.com
--  
+
+-  Tech Stack:
+-  HTML , CSS , Javascript , React , Nextjs , Firebase , MongoDB and continuously updating.
+- 
 -->
