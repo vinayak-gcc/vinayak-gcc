@@ -7,8 +7,7 @@ About Me 💻 - https://myportfolio-five-indol-51.vercel.app/
 - Ask me about FullStack 📫 or Front-End💬
 - You can reach me on pathakvinayakk@gmail.com or https://x.com/_Vinayak79 
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak-gcc&theme=default)
-
-
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayak-gcc)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayak-gcc)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak-gcc&theme=default)
+
