@@ -1,5 +1,5 @@
 ### Hi, I'm Vinayak Pathak! 👋
-About Me 💻 - https://myportfolio-five-indol-51.vercel.app/
+About Me 💻 - https://vinayakpathak.vercel.app/
 
 - I'm a FullStack Web Developer from India with a keen interest in Frontend 🎨
 - I'm always working on my skills and trying to be better everyday 📈
