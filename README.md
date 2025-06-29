@@ -20,23 +20,17 @@ Let’s connect and build something cool together! 🚀
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayak-gcc&show_icons=true&theme=radical" alt="Vinayak's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-gcc&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayak-gcc&show_icons=true&theme=radical" alt="Vinayak's GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak-gcc&theme=default" alt="Profile Summary" />
-</p>
-
 
 ---
 
 ## 🚀 Personal Projects
 
-- 🔸 <a href="https://weathernow-ten.vercel.app/" target="_blank"><strong>WeatherNow</strong></a> – Real-time weather dashboard with AQI, maps, and forecast. *(Next.js, Tailwind, TypeScript)*  
-- 🔸 <a href="https://mclaren-three.vercel.app/" target="_blank"><strong>McLaren</strong></a> – Car purchase platform with animations, Stripe, and Redux. *(React.js, Tailwind, Framer Motion)*  
-- 🔸 <a href="https://keep-clone-kappa.vercel.app/" target="_blank"><strong>KeepClone</strong></a> – Google Keep-inspired notes app with real-time sync. *(Svelte, Supabase, Tailwind)*
+- 🔸 [**WeatherNow**](https://weathernow-ten.vercel.app/) – Real-time weather dashboard with AQI, maps, and forecast. *(Next.js, Tailwind, TypeScript)*  
+- 🔸 [**McLaren**](https://mclaren-three.vercel.app/) – Car purchase platform with animations, Stripe, and Redux. *(React.js, Tailwind, Framer Motion)*  
+- 🔸 [**KeepClone**](https://keep-clone-kappa.vercel.app/) – Google Keep-inspired notes app with real-time sync. *(Svelte, Supabase, Tailwind)*
 
 ---
 
