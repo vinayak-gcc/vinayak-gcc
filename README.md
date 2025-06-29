@@ -20,9 +20,15 @@ Let’s connect and build something cool together! 🚀
 
 ## 📊 GitHub Stats
 
-![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayak-gcc&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-gcc&layout=compact&theme=radical)  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak-gcc&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayak-gcc&show_icons=true&theme=radical" alt="Vinayak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-gcc&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak-gcc&theme=default" alt="Profile Summary" />
+</p>
+
 
 ---
 
