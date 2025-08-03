@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Vinayak
+##  Hi, I'm Vinayak
 
 I'm a Frontend-focused Full Stack Developer 💻 always learning 🌱 and occasionally questioning my life choices 🔄.
 
