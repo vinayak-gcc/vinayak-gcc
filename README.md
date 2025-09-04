@@ -4,7 +4,7 @@ I'm a Frontend-focused Full Stack Developer always learning and occasionally thi
 
 I love turning Figma designs into smooth UIs, building real features, and exploring new tech. During my internship at a fast-paced startup agency, I shipped full-stack features and spent more time fixing the code than making it.
 
-Outside work, I binge anime, shows, and cricket . I am also good at chess but mostly just let others win since i am a very humble and good guy.
+Outside work, I binge anime, shows, and cricket . I am also good at chess but mostly just let others win since i am a very good and humble guy.
 
 Let’s connect and build something cool together! 🚀
 
