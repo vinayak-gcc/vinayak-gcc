@@ -10,29 +10,23 @@ Let’s connect and build something cool together! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vinayak-gcc&color=blue)
 
----
-
 ## 🛠 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,postgres,mongodb,redis,svelte,tailwind,bootstrap,redux,git,docker,firebase,supabase,prisma,vercel)
 
----
-
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-gcc&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=vinayak-gcc&show_icons=true&theme=radical" alt="Vinayak's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak-gcc&theme=default" alt="Profile Summary" />
 
----
+## 📈 Top Languages
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-gcc&layout=compact&theme=radical" alt="Top Languages" />
 
 ## 🚀 Personal Projects
 
 - 🔸 [**WeatherNow**](https://weathernow-ten.vercel.app/) – Real-time weather dashboard with AQI, maps, and forecast. *(Next.js, Tailwind, TypeScript)*  
 - 🔸 [**McLaren**](https://mclaren-three.vercel.app/) – Car purchase platform with animations, Stripe, and Redux. *(React.js, Tailwind, Framer Motion)*  
 - 🔸 [**KeepClone**](https://keep-clone-kappa.vercel.app/) – Google Keep-inspired notes app with real-time sync. *(Svelte, Supabase, Tailwind)*
-
----
 
 ## 🔗 Connect With Me
 
@@ -41,4 +35,11 @@ Let’s connect and build something cool together! 🚀
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?logo=github&logoColor=white)](https://github.com/vinayak-gcc) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter)](https://x.com/_Vinayak79) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pathakvinayakk@gmail.com) 
+
+## 💬 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 😂 Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
 
