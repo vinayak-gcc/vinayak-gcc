@@ -8,8 +8,6 @@ Outside work, I binge anime, shows, and cricket . I am also good at chess but mo
 
 Let’s connect and build something cool together! 🚀
 
-Building [Bundled design](https://x.com/bundleddesign) 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=vinayak-gcc&color=blue)
 
 ---
