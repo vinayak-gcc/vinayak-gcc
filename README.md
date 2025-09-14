@@ -8,6 +8,8 @@ Outside work, I binge anime, shows, and cricket . I am also good at chess but mo
 
 Let’s connect and build something cool together! 🚀
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Currently+Debugging+my+Code+at+Bundled+Design" alt="debugging"/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=vinayak-gcc&color=blue)
 
 ## 🛠 Tech Stack
