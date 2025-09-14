@@ -28,12 +28,6 @@ Let’s connect and build something cool together! 🚀
 - 🔸 [**McLaren**](https://mclaren-three.vercel.app/) – Car purchase platform with animations, Stripe, and Redux. *(React.js, Tailwind, Framer Motion)*  
 - 🔸 [**KeepClone**](https://keep-clone-kappa.vercel.app/) – Google Keep-inspired notes app with real-time sync. *(Svelte, Supabase, Tailwind)*
 
-## 💬 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 👀 Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vinayak-pathak-b7aa7a205/) 
@@ -41,3 +35,10 @@ Let’s connect and build something cool together! 🚀
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?logo=github&logoColor=white)](https://github.com/vinayak-gcc) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter)](https://x.com/_Vinayak79) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pathakvinayakk@gmail.com) 
+
+
+## 💬 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 👀 Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
