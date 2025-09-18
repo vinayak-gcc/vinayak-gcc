@@ -4,7 +4,7 @@ I'm a Frontend-focused Full Stack Developer always learning and occasionally thi
 
 I love turning Figma designs into smooth UIs, building real features, and exploring new tech. During my internship at a fast-paced startup agency, I shipped full-stack features and spent more time fixing the code than making it.
 
- Currently, I'm working at a Product Based AI Startup remotely as a Full Stack Developer .
+Currently, I'm working at a Product Based AI Startup remotely as a Full Stack Developer .
 
 Outside work, I binge anime, shows, and cricket . I am also good at chess but mostly just let others win since i am a very good and humble guy.
 
@@ -20,11 +20,15 @@ Let’s connect and build something cool together! 🚀
 
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayak-gcc&show_icons=true&theme=radical" alt="Vinayak's GitHub Stats" />
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinayak-gcc&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api?username=vinayak-gcc&show_icons=true&theme=radical" alt="Vinayak's GitHub Stats" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak-gcc&theme=radical)
 
 ## 📈 Top Languages
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-gcc&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-gcc&layout=compact&theme=radical" alt="Top Languages" />
 
 ## 🚀 Personal Projects
 
