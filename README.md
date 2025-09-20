@@ -6,7 +6,7 @@ I love turning Figma designs into smooth UIs, building real features, and explor
 
 Currently, I'm working at a Product Based AI Startup remotely as a Full Stack Developer .
 
-Outside work, I binge anime, shows, and cricket . I am also good at chess but mostly just let others win since i am a very good and humble guy.
+Outside work, I binge anime, shows, and cricket . I am also good at chess even if my rating says otherwise.
 
 Let’s connect and build something cool together! 🚀
 
