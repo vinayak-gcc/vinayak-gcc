@@ -8,7 +8,7 @@ Currently, I'm working at a Product Based AI Startup remotely as a Full Stack De
 
 Outside work, I binge anime, shows, and cricket . I am also good at chess even if my rating says otherwise.
 
-Let’s connect and build something cool together! 🚀
+Let’s connect and build something cool together!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C853&vCenter=true&width=800&lines=Open+For+Freelance+Work" alt="debugging"/>
 
