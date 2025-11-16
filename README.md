@@ -1,6 +1,6 @@
 ##  Hi, I'm Vinayak
 
-I'm a Frontend-focused Full Stack Developer always learning and occasionally thinking if farming would be a better option or not.
+I'm a Full Stack Developer always learning and occasionally thinking if farming would be a better option or not.
 
 I love turning Figma designs into smooth UIs, building real features, and exploring new tech. During my internship at a fast-paced startup agency, I shipped full-stack features and spent more time fixing the code than making it.
 
