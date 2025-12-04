@@ -18,18 +18,6 @@ Let’s connect and build something cool together!
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,postgres,mongodb,redis,svelte,tailwind,bootstrap,redux,git,docker,firebase,supabase,prisma,vercel)
 
-## 📊 GitHub Stats
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinayak-gcc&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api?username=vinayak-gcc&show_icons=true&theme=radical" alt="Vinayak's GitHub Stats" />
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak-gcc&theme=radical)
-
-## 📈 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-gcc&layout=compact&theme=radical" alt="Top Languages" />
-
 ## 🚀 Personal Projects
 
 - 🔸 [**WeatherNow**](https://weathernow-ten.vercel.app/) – Real-time weather dashboard with AQI, maps, and forecast. *(Next.js, Tailwind, TypeScript)*  
