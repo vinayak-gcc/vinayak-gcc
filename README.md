@@ -2,11 +2,9 @@
 
 I'm a Full Stack Developer always learning and occasionally thinking if farming would be a better option or not.
 
-I love turning Figma designs into smooth UIs, building real features, and exploring new tech.
+I'm good at turning Figma designs into smooth UIs, building real features, and exploring new tech.
 
-Currently, I'm working at a Product Based AI Startup remotely as a Full Stack Developer .
-
-Outside work, I binge anime, shows, and cricket . I am also good at chess even if my rating says otherwise.
+Outside work, I love binge watching movies, taking a walk and playing games. I am also a very good chess player if you don't look at my rating.
 
 Let’s connect and build something cool together!
 
