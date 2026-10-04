@@ -4,13 +4,12 @@ I'm a Full Stack Developer always learning and occasionally thinking if farming 
 
 I'm good at turning Figma designs into smooth UIs, building real features, and exploring new tech.
 
-Outside work, I love binge watching movies, taking a walk and playing games. I am also a very good chess player if you don't look at my rating.
+Outside work, I love binge watching movies, taking a walk and playing games. <br />
+I am also a very good chess player if you don't look at my rating.
 
 Let’s connect and build something cool together!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C853&vCenter=true&width=800&lines=Open+For+Freelance+Work" alt="debugging"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vinayak-gcc&color=blue)
 
 ## 🛠 Tech Stack
 
